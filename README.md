@@ -1,1 +1,1 @@
-Click <b>[here](https://felekswebs.github.io/Website-Cookie/)</b> to view "Sving Cookie" project.
+Click <b>[here](https://felekswebs.github.io/Website-Cookie/)</b> to view "Saving Cookie" project.
