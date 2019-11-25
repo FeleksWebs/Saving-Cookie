@@ -1,3 +1,5 @@
+While I was learning how to work with website cookies, I realised that standard static pages do not store cookies in any way, shape or form. Therefor during this project, I have leared of creating a local host that will host a website until the website gets turned off manualy. While having the website constantly "on", it managed to create a cookie on the website that stored the information needed for me to progress with the projcet.
+The code used to create a localhost using node.js is displayed below.
 ************************************************************
 const http = require('http');
 const fs = require('fs');
